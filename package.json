@@ -1,12 +1,12 @@
 {
-  "name": "tomotoes-home-page",
+  "name": "helloitme-home-page",
   "version": "1.0.0",
-  "author": "SimonMa <simon@tomotoes.com>",
+  "author": "taipham1803 <taipham1803@gmail.com>",
   "license": "LGPI-3.0",
-  "homepage": "http://tomotoes.com",
-  "repository": "https://github.com/Tomotoes/HomePage",
-  "bugs": "https://github.com/Tomotoes/HomePage/issues",
-  "description": "Tomotoes-HomePage",
+  "homepage": "http://taiph.hashnode.com",
+  "repository": "https://github.com/taipham1803/HomePage",
+  "bugs": "https://github.com/taipham1803/HomePage/issues",
+  "description": "HelloItMe-HomePage",
   "scripts": {
     "predev": "gulp build",
     "dev": "gulp watch",
