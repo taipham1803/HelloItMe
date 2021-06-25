@@ -4,12 +4,6 @@
 
 [Online browsing](http://taiph.hashnode.com)
 
-Do you want to install such a cool homepage for your website?
-
-Let's start now!
-
-
-
 ## Prerequisites
 
 - Nodejs 6.0 above
