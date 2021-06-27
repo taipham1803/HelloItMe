@@ -14,7 +14,7 @@ Personal blog
 ## Install
 
 ```sh
-git clone https://github.com/taipham1803/HomePage.git
+git clone https://github.com/taipham1803/HelloItMe.git
 cd HomePage
 npm install
 npm run dev
