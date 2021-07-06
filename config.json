@@ -21,12 +21,12 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://taiph.hashnode.dev",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://taiph.hashnode.dev",
 				"icon": "xiaolian",
 				"text": "About"
 			},
