@@ -15,7 +15,7 @@ Personal blog
 
 ```sh
 git clone https://github.com/taipham1803/HelloItMe.git
-cd HomePage
+cd HelloItMe
 npm install
 npm run dev
 ```
